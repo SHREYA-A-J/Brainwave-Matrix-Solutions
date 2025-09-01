@@ -25,3 +25,4 @@ A relational database designed for managing books, members, and issued/returned 
 2. Import `create_tables.sql` into MySQL
 3. Import `insert_data.sql`
 4. Run queries from `queries.sql`
+
